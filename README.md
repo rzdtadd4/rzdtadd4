@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... I don't know.
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on ... I don't know.
-- 📫 How to reach me ...
+- 📫 How to reach me twitter
 - 😄 Pronouns: ...
 - ⚡ Fun fact: cc
 
