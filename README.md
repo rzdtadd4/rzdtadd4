@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... I don't know.
 - 📫 How to reach me twitter
 - 😄 Pronouns: ... I don't know.
-- ⚡ Fun fact: cc
+- ⚡ Fun fact: cccc
 
 <!---
 rzdtadd4/rzdtadd4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
