@@ -6,7 +6,7 @@
 - 😄 Pronouns: ... I don't know.
 - ⚡ Fun fact: cc and cc
 - latex cc
-- I want cc
+- I want c
 
 <!---
 rzdtadd4/rzdtadd4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
