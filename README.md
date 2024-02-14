@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on ... I don't know.
 - 📫 How to reach me twitter
-- 😄 Pronouns: ... I don't know.
+- 😄 Pronouns: .... I don't know.
 - ⚡ Fun fact: cc and cc
 - latex cc
 - I want c
