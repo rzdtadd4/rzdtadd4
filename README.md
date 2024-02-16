@@ -7,6 +7,7 @@
 - ⚡ Fun fact: cc and cc
 - latex cc
 - I want c
+- Promised I will do it
 
 <!---
 rzdtadd4/rzdtadd4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
