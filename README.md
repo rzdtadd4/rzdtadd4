@@ -6,7 +6,7 @@
 - 😄 Pronouns: .... I don't know.
 - ⚡ Fun fact: cc and cc
 - latex cc
-- I want c
+- I want cc
 - Promised I will do it
 
 <!---
